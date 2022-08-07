@@ -1,11 +1,6 @@
 # MoodToMusic
 Consulting and Analytics Club, IITG Project
 
-### `python app.py`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 ![mtm-ui-1](https://user-images.githubusercontent.com/75270052/162983796-77f047fe-e60e-4725-807c-1acf9ddc1022.PNG)
 
 On Submitting, a bounding box is drawn, and a list of song recommendations are generated.
